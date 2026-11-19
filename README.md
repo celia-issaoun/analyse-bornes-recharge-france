@@ -46,7 +46,7 @@ Sélection de communes, filtrage des données et affichage dynamique des résult
 
 ## Application en ligne
 
-Lien vers l'application R Shiny : https://lnkd.in/eA8HjK5y 
+Lien vers l'application R Shiny : [https://lnkd.in/eA8HjK5y](https://celiaissaoun.shinyapps.io/bornes_de_recharge/) 
 
 ## Auteur
 
