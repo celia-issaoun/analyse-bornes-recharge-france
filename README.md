@@ -141,33 +141,9 @@ Ces visualisations contribuent à mettre en évidence les caractéristiques et l
 
 ![Visualisations statistiques](images/camembert.png)
 ![Visualisations statistiques](images/boxplot.png)
-## 6. Structure du projet
 
-L'application est organisée autour de plusieurs modules R Shiny, permettant de séparer les fonctionnalités et de faciliter la maintenance du code.
 
-```text
-analyse-bornes-recharge-france/
-│
-├── app.R
-│
-├── code_RSHINY/
-│   ├── mod_visualisation.R
-│   ├── mod_kernel.R
-│   ├── mod_distance.R
-│   └── ...
-│
-├── images/
-│   ├── carte_bornes.png
-│   ├── carte_kernel.png
-│   ├── analyse_distances.png
-│   └── analyse_statistique.png
-│
-└── README.md
-```
-
-Cette structure est indicative et doit être adaptée à l'organisation réelle des fichiers du projet.
-
-## 7. Application interactive en ligne
+## 6. Application interactive en ligne
 
 L'application est accessible depuis un navigateur web grâce à son déploiement sur shinyapps.io.
 
@@ -177,7 +153,7 @@ L'interface permet d'explorer les données et d'interagir directement avec les c
 
 Certaines fonctionnalités nécessitent une connexion à des services externes, notamment OpenStreetMap et Overpass API.
 
-## 8. Compétences mobilisées
+## 7. Compétences mobilisées
 
 Ce projet m'a permis de mettre en pratique et de développer plusieurs compétences :
 
@@ -199,7 +175,7 @@ Ce projet m'a permis de mettre en pratique et de développer plusieurs compéten
 - Intégration de données géographiques externes.
 - Déploiement d'une application web.
 
-## 9. Perspectives d'amélioration
+## 8. Perspectives d'amélioration
 
 Plusieurs évolutions peuvent être envisagées :
 
@@ -209,7 +185,7 @@ Plusieurs évolutions peuvent être envisagées :
 - Optimiser les performances de chargement des données géographiques.
 - Intégrer des distances routières et des temps de trajet réels.
 
-## 10. Auteur
+## 9. Auteur
 
 **Celia ISSAOUN**
 
