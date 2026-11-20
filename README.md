@@ -99,7 +99,7 @@ La carte de chaleur utilise les localisations des bornes et une pondération par
 
 **Aperçu de la carte de chaleur :**
 
-![Carte de chaleur des bornes](images/carte_kernel.png)
+![Carte de chaleur des bornes](images/carte_chaleur.jpeg)
 
 ### 5.3. Analyse des distances et de l'accessibilité
 
@@ -129,7 +129,7 @@ Les distances correspondent à des distances géométriques directes et non à d
 
 **Aperçu de l'analyse des distances :**
 
-![Analyse des distances](images/analyse_distances.png)
+![Analyse des distances](images/carte_distance.jpeg)
 
 ### 5.4. Analyses et visualisations statistiques
 
@@ -139,8 +139,8 @@ Ces visualisations contribuent à mettre en évidence les caractéristiques et l
 
 **Aperçu des visualisations statistiques :**
 
-![Visualisations statistiques](images/analyse_statistique.png)
-
+![Visualisations statistiques](images/camembert.png)
+![Visualisations statistiques](images/boxplot.png)
 ## 6. Structure du projet
 
 L'application est organisée autour de plusieurs modules R Shiny, permettant de séparer les fonctionnalités et de faciliter la maintenance du code.
