@@ -80,7 +80,7 @@ L'utilisateur peut explorer les infrastructures à l'aide de filtres et consulte
 
 **Aperçu de la carte interactive :**
 
-![Carte interactive des bornes de recharge](images/carte_bornes.png)
+![Carte interactive des bornes de recharge](images/carte_interactive.png)
 
 ### 5.2. Analyse de la concentration spatiale
 
