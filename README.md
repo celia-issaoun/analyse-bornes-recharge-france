@@ -185,6 +185,13 @@ Plusieurs évolutions peuvent être envisagées :
 - Optimiser les performances de chargement des données géographiques.
 - Intégrer des distances routières et des temps de trajet réels.
 
+## Disponibilité des données
+Ce repository contient le code source de l'application R Shiny ainsi que la documentation du projet.
+Les jeux de données utilisés pour les analyses ne sont pas inclus dans ce dépôt GitHub.
+
+**Pour toute demande d'accès aux données**, vous pouvez me contacter directement via LinkedIn: ** www.linkedin.com/in/celia-issaoun ou par e-mail: ** issaouncelia21@gmail.com . Leur partage reste soumis aux conditions d'utilisation et de diffusion applicables.
+
+Pour exécuter le projet localement, les jeux de données nécessaires doivent être placés dans les dossiers prévus à cet effet, conformément à la structure du code source.
 ## 9. Auteur
 
 **Celia ISSAOUN**
